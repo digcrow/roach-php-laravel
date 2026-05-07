@@ -1,5 +1,5 @@
 {
-    "name": "roach-php/laravel",
+    "name": "digcrow/roach-php-laravel",
     "description": "Laravel adapter for roach-php/core",
     "license": "MIT",
     "type": "library",
